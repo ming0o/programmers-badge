@@ -89,25 +89,25 @@
 
             <text text-anchor="middle" dominant-baseline="middle" x="66.5" y="95" class="title_no" style="fill:#ffffff;">1</text>
 
-            <text text-anchor="start" x="160" y="55" class="title_id" style="fill:#ffffff;">김민주</text>
+            <text text-anchor="start" x="160" y="55" class="title_id" style="fill:#ffffff;">ming0o</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="95" class="sub_title" style="fill:#ffffff;">Score</text>
 
-            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,096</text>
+            <text text-anchor="start" x="250" y="95" class="value" style="fill:#ffffff;">1,097</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="115" class="sub_title" style="fill:#ffffff;">Solved</text>
 
-            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">36</text>
+            <text text-anchor="start" x="250" y="115" class="value" style="fill:#ffffff;">37</text>
         </g>
 
         <g class="group">
             <text text-anchor="start" x="160" y="135" class="sub_title" style="fill:#ffffff;">Rank</text>
 
-            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">143,397</text>
+            <text text-anchor="start" x="250" y="135" class="value" style="fill:#ffffff;">142,730</text>
         </g>
 
         </svg>
